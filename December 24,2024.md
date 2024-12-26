@@ -20,5 +20,4 @@
     }
   ```
 
-- **Reflections**:
-  - I think this is enough for sticky top and I was also planning to put animation for animation if the screen scroll within offsetheight 50vh the header will animate.
+- **Reflections**: I think this is enough for the sticky top. I was also planning to add an animation so that when the screen is scrolled within an offsetHeight of 50vh, the header will animate.
