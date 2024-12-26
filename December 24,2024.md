@@ -5,6 +5,39 @@
 
 - **Code Challenges**:
 
+## HTML
+  ```html
+  <header class="header">
+         <div class="header-container">
+            <div class="header-section-one">
+               <h1 class="header-so-title">GET UP TO LIMITED TIME <a href="">SHOP NOW</a></h1>
+               <div id="header-so-timer">
+                  <h1 id="countdown"></h1>
+                  <span id="message"></span>
+               </div>
+            </div>
+            <nav class="navbar-container">
+               <ul class="navbar-unorder-list">
+                  <li class="navbar-list">
+                     <a href="" class="navbar-link">HOME</a>
+                     <a href="" class="navbar-link">SHOP</a>
+                     <a href="" class="navbar-link">ABOUT</a>
+                     <a href="" class="navbar-link">NEWS</a>
+                     <a href="" class="navbar-link">CONTACT</a>
+                  </li>
+                  <a href="" class="navbar-home-link">BANBAN</a>
+                  <span class="navbar-list-icons">
+                     <i class="fa-solid fa-magnifying-glass"></i>
+                     <i class="fa-regular fa-user"></i>
+                     <i class="fa-solid fa-cart-shopping"></i>
+                  </span>
+               </ul>
+            </nav>
+         </div>
+      </header>
+  ```
+
+
   ```CSS
   // I use the block for perfect width of the header.
   .header {
