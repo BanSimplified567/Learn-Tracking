@@ -1,6 +1,8 @@
 
 ## 12/24/2024
 
+- **Topics Covered**
+
 - Using the block with 100% width size
 
 - **Code Challenges**:
