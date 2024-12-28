@@ -3,6 +3,8 @@
 
 ## 12/24/2024
 
+- **Topics Covered**
+
 - Making a Carousel Sliding images.
 
 - **Code Challenges**:
